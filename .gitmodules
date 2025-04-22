@@ -1,6 +1,0 @@
-[submodule "Assets/Scripts/mavlink_source"]
-	path = Assets/Scripts/mavlink_source
-	url = git@gitlab.demcon.local:dus/unmanned-survey-vessel/mavlink_source.git
-[submodule "Assets/Scripts/UnityMainThreadDispatcher"]
-	path = Assets/Scripts/UnityMainThreadDispatcher
-	url = https://github.com/PimDeWitte/UnityMainThreadDispatcher.git

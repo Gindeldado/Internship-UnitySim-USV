@@ -1,5 +1,5 @@
-# UnitySim - USV simulation in Unity  
-
+# Internship: Creation of UnitySim - USV simulation in Unity  
+#### Note: This repository contains only the code and documentation and has been simplified. It is NOT runnable in its current form. 
 1. This repository can be opened as Unity project for developing purpose.<br>
 2. The simulation can be started by running the `px4_unity.sh` start-up file in the px4-firmware repository.
  

@@ -86,4 +86,4 @@ Try out some Unity beginner tutorials to get the hang of the editor.
 
 ## [Extra Info]
 - To start simulation in headless mode type in px4_firmware/ `./px4_unity.sh -h`
-- Visit [USER MANUAL](\USER_MANUAL.md)
+- Visit [USER MANUAL](/USER_MANUAL.md)
